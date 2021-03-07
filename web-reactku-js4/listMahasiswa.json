@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1615149569401,
+      "nama": "Hans",
+      "nim": "184123123",
+      "alamat": "Malang",
+      "hp": "0852324324",
+      "angkatan": "2018",
+      "status": "Jomblo"
+    },
+    {
+      "id": 1615149637912,
+      "nama": "Indra Prayoga",
+      "nim": "1841323",
+      "alamat": "Bali",
+      "hp": "08234242",
+      "angkatan": "2015",
+      "status": "Lulus"
+    }
+  ]
+}
