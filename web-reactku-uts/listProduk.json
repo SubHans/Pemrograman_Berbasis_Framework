@@ -1,0 +1,87 @@
+{
+  "barang": [
+    {
+      "userId": 1,
+      "id": 1,
+      "nama": "LG 32LM550BPTA Digital LED TV [32 Inch]",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//78/MTA-3410231/lg_lg-32lm550-digital-led-tv--32-inch-_full02.jpg",
+      "harga": 2299000,
+      "stok": 4
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "nama": "Changhong 24 inch LED TV HD TV HDMI-USB Movie-L24G3",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//85/MTA-8500050/changhong_changhong_24_inch_led_tv_hd_tv_hdmi-usb_movie-l24g3-garansi_resmi_3_tahun_full01_mirtmgvh.jpg",
+      "harga": 1389000,
+      "stok": 6
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "nama": "TCL 24D310 LED TV",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//84/MTA-6100282/tcl_led_tv_tcl_24d310_full02_jcga0ico.jpg",
+      "harga": 1320000,
+      "stok": 5
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "nama": "Akari 32V90 TV LED [32 Inch/ USB Movie]",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//88/MTA-2434920/akari_akari-32v90-led-tv-32-inch--usb-movie-_full02.jpg",
+      "harga": 1699150,
+      "stok": 5
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "nama": "POLYTRON PLD 50S873 LED TV [50 Inch]",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//90/MTA-6004951/polytron_polytron_led_tv_50-_pld_50s873_full02_iki0z724.jpg",
+      "harga": 4899000,
+      "stok": 4
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "nama": "Coocaa 32E390 TV LED",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/coocaa_coocaa-tv--led-32e390_full02.jpg",
+      "harga": 3299000,
+      "stok": 3
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "nama": "Samsung 48J5100 TV LED [48 Inch]",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/samsung_samsung-48j5100-tv-led--48-inch-_full05.jpg",
+      "harga": 4269800,
+      "stok": 4
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "nama": "POLYTRON LED TV PLD 32S1503",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//102/MTA-11695692/br-m036969-02658_polytron-led-tv-pld-32s1503_full01.jpg",
+      "harga": 2301000,
+      "stok": 4
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "nama": "POLYTRON LED TV PLD 32D1850",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//104/MTA-11694866/br-m036969-02658_polytron-led-tv-pld-32d1850_full01.jpg",
+      "harga": 2103000,
+      "stok": 5
+    },
+    {
+      "userId": 1,
+      "id": 10,
+      "nama": "Xiaomi New Mi TV 4 Smart TV [32 Inch]",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//94/MTA-7292190/xiaomi_xiaomi_new_mi_tv_4_smart_tv_-32_inch-_full03_on8adcsb.jpg",
+      "harga": 2575000,
+      "stok": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

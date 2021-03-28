@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    list-style: none;
+    padding:0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+body{
+    background-color: #e1ecf2;
+}
+
+.wrapper{
+    padding:20px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+  
+table {
+    margin-top: 15px;
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+
+.image_biodata{
+    width: 100%;
+    height: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}

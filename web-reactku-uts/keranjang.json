@@ -1,0 +1,15 @@
+{
+  "cart": [
+    {
+      "userId": 1,
+      "id": 1616960575861,
+      "nama": "LG 32LM550BPTA Digital LED TV [32 Inch]",
+      "harga": 2299000,
+      "total_qty": 1,
+      "total_harga": 2299000
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
