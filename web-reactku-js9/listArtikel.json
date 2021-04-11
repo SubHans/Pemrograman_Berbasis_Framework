@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1618150115334,
+      "title": "Hallo ",
+      "body": "Bagaimana Kabarmu ?\n"
+    },
+    {
+      "userId": 1,
+      "id": 1618150734354,
+      "title": "Hai",
+      "body": "Perkenalkan nama saya Subhan "
+    },
+    {
+      "userId": 1,
+      "id": 1618151481067,
+      "title": "Subhan Indra Prayoga ",
+      "body": "Pemuda Pekerja Keras"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
