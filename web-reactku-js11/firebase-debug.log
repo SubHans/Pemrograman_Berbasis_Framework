@@ -1,0 +1,29 @@
+[debug] [2021-04-25T17:46:38.412Z] ----------------------------------------------------------------------
+[debug] [2021-04-25T17:46:38.416Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\indra\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js serve
+[debug] [2021-04-25T17:46:38.417Z] CLI Version:   9.10.0
+[debug] [2021-04-25T17:46:38.417Z] Platform:      win32
+[debug] [2021-04-25T17:46:38.417Z] Node Version:  v14.15.2
+[debug] [2021-04-25T17:46:38.418Z] Time:          Mon Apr 26 2021 00:46:38 GMT+0700 (Indochina Time)
+[debug] [2021-04-25T17:46:38.418Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-25T17:46:38.429Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-25T17:46:38.429Z] > authorizing via signed-in user (indraprayoga933@gmail.com)
+[debug] [2021-04-25T17:46:38.429Z] [iam] checking project js10-80956 for permissions ["firebase.projects.get"]
+[debug] [2021-04-25T17:46:38.432Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/js10-80956:testIamPermissions  
+ {"permissions":["firebase.projects.get"]}
+[debug] [2021-04-25T17:46:39.668Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Sun, 25 Apr 2021 17:46:39 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=939","alt-svc":"h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2021-04-25T17:46:39.672Z] > refreshing access token with scopes: []
+[debug] [2021-04-25T17:46:39.673Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2021-04-25T17:46:39.842Z] <<< HTTP RESPONSE 200 {"date":"Sun, 25 Apr 2021 17:46:39 GMT","pragma":"no-cache","expires":"Mon, 01 Jan 1990 00:00:00 GMT","cache-control":"no-cache, no-store, max-age=0, must-revalidate","content-type":"application/json; charset=utf-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","server":"scaffolding on HTTPServer2","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2021-04-25T17:46:39.864Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/js10-80956 [none]
+[debug] [2021-04-25T17:46:40.253Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/js10-80956 200
+[debug] [2021-04-25T17:46:40.253Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/js10-80956 {"projectId":"js10-80956","projectNumber":"173052286272","displayName":"js11","name":"projects/js10-80956","resources":{"hostingSite":"js10-80956","storageBucket":"js10-80956.appspot.com","locationId":"us-central"},"state":"ACTIVE"}
+[info] 
+[info] === Serving from 'C:\react\web-reactku-js11'...
+[info] 
+[debug] [2021-04-25T17:46:40.257Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/js10-80956/webApps/-/config [none]
+[debug] [2021-04-25T17:46:41.274Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/js10-80956/webApps/-/config 200
+[debug] [2021-04-25T17:46:41.274Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/js10-80956/webApps/-/config {"projectId":"js10-80956","storageBucket":"js10-80956.appspot.com","locationId":"us-central","apiKey":"AIzaSyAfytPgnaFmFIWPIeq7b6cDEDWqlQKwcEQ","authDomain":"js10-80956.firebaseapp.com","messagingSenderId":"173052286272"}
+[info] i  hosting: Serving hosting files from: public {"metadata":{"emulator":{"name":"hosting"},"message":"Serving hosting files from: \u001b[1mpublic\u001b[22m"}}
+[info] +  hosting: Local server: http://localhost:5000 {"metadata":{"emulator":{"name":"hosting"},"message":"Local server: \u001b[4m\u001b[1mhttp://localhost:5000\u001b[22m\u001b[24m"}}
